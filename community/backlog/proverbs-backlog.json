@@ -23,7 +23,7 @@
     "romaji": "I no naka no kawazu taikai wo shirazu",
     "english": "A frog in a well does not know the great sea",
     "meaning": "Those with limited experience cannot understand the bigger picture",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -32,7 +32,7 @@
     "romaji": "Ishi no ue ni mo san nen",
     "english": "Three years on a stone",
     "meaning": "Patience and perseverance will eventually pay off",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -41,7 +41,7 @@
     "romaji": "Chiri mo tsumoreba yama to naru",
     "english": "Even dust, if piled up, becomes a mountain",
     "meaning": "Small efforts accumulate into great achievements",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -213,7 +213,7 @@
     "english": "Preaching Buddha to a horse's ear",
     "meaning": "Wasting good advice on someone who won't listen",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "english": "Early rising is worth three coins",
     "meaning": "The early bird catches the worm",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 26,
@@ -249,7 +249,7 @@
     "english": "Seven falls, eight struggles",
     "meaning": "Going through great pain and struggle",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 29,
@@ -402,7 +402,7 @@
     "english": "Tap a stone bridge before crossing",
     "meaning": "Be very cautious",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 46,
@@ -438,7 +438,7 @@
     "english": "Early rising is worth three coins",
     "meaning": "Good things come from getting up early",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 50,
@@ -501,7 +501,7 @@
     "english": "A rice cake falls from the shelf",
     "meaning": "A windfall; unexpected good luck",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 57,
@@ -537,7 +537,7 @@
     "english": "Among flowers, the cherry blossom; among men, the warrior",
     "meaning": "The best of each kind",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 61,
@@ -545,7 +545,7 @@
     "romaji": "Mochi wa mochiya",
     "english": "Mochi should be made by the mochi shop",
     "meaning": "Leave it to the experts",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -555,7 +555,7 @@
     "english": "It's darkest under the lighthouse",
     "meaning": "The obvious is often overlooked",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 63,
@@ -689,7 +689,7 @@
     "romaji": "Hari no ana kara ten wo nozoku",
     "english": "Peek at the sky through a needle's eye",
     "meaning": "A narrow viewpoint leads to poor judgment",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -698,7 +698,7 @@
     "romaji": "Zen wa isoge",
     "english": "Hurry to do good",
     "meaning": "If it's worth doing, do it at once",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -707,7 +707,7 @@
     "romaji": "Miru wa houraku",
     "english": "Just watching is a pleasure",
     "meaning": "Enjoy observing; you don't always need to participate",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -716,7 +716,7 @@
     "romaji": "Tsuki to suppon",
     "english": "The moon and a turtle",
     "meaning": "Vast difference; not comparable",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -725,7 +725,7 @@
     "romaji": "Kaeru no ko wa kaeru",
     "english": "A frog's child is a frog",
     "meaning": "Children resemble their parents",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -735,7 +735,7 @@
     "english": "Well-side conference",
     "meaning": "Neighborhood gossip",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 83,
@@ -743,7 +743,7 @@
     "romaji": "Neko ni katsuobushi",
     "english": "Dried bonito to a cat",
     "meaning": "Leave temptation unattended at your own risk",
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -753,7 +753,7 @@
     "english": "Poke the bush and bring out a snake",
     "meaning": "Stir up trouble unnecessarily",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 85,
@@ -761,7 +761,7 @@
     "romaji": "Neko no hitai",
     "english": "A cat's forehead",
     "meaning": "Very small space",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -807,7 +807,7 @@
     "english": "Continuation is power",
     "meaning": "Consistency leads to strength",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 91,
@@ -843,7 +843,7 @@
     "english": "Three years on a stone",
     "meaning": "Perseverance brings success",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 95,
@@ -996,7 +996,7 @@
     "english": "It's darkest under the lighthouse",
     "meaning": "The obvious is often overlooked",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@
     "english": "A journey of a thousand miles begins with one step",
     "meaning": "Start small to reach big goals",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 113,
@@ -1041,7 +1041,7 @@
     "english": "Do laundry while the ogre is away",
     "meaning": "Take advantage of an opportunity",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 117,
@@ -1113,7 +1113,7 @@
     "english": "Preaching Buddha to a horse's ear",
     "meaning": "Advice is wasted on the unwilling",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 125,
@@ -1122,7 +1122,7 @@
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 126,
@@ -1239,7 +1239,7 @@
     "english": "Continuation is power",
     "meaning": "Consistency builds strength",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 139,
@@ -1275,7 +1275,7 @@
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 143,
@@ -1491,7 +1491,7 @@
     "english": "Even a packhorse driver looks good in fine clothes",
     "meaning": "Clothes make the person",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 167,
@@ -1599,7 +1599,7 @@
     "english": "See the trees but not the forest",
     "meaning": "Miss the bigger picture",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 179,
